@@ -1,6 +1,6 @@
 # Retrieve Metadata from API and Create Obsidian Notes
 
-This script will allow you to retrieve anime and comic metadata using the wonderful [Jikan](https://docs.api.jikan.moe/) API for MyAnimeList (MAL).
+These scripts will allow you to retrieve anime and comic metadata using the wonderful [Jikan](https://docs.api.jikan.moe/) API for MyAnimeList (MAL).
 
 ## Installation
 
@@ -19,7 +19,7 @@ For another set of instructions + demo, check out the Movie Script that inspired
 
 ## Templates
 
-A heads up that I use the templater and the banner plugins, which impact the `<% %>` code block, and `banner:` metadata respectively.
+Heads up, I use the templater and the banner plugins, which impact the `<% %>` code block, and `banner:` metadata respectively.
 
 ### Anime
 
@@ -89,7 +89,12 @@ Date:: [[<%tp.date.now("YYYY-MM-DD")%>]]
 ## Review
 ```
 
+## Help
+
+Please comment on the relevant gists for the scripts if there are any issues or if there are any other improvements that you want made!
+
+If you have trouble going through the installation process, check out the Obsidian Official Discord Channel [here](https://obsidian.md/community) and ask for help! Ping me `@Aurorous`.
 
 ## Acknowledgement
 
-These scripts and the inspiration from them are largely adapted from: [Christian's Movie Script](https://github.com/chhoumann/quickadd/blob/master/docs/Examples/Macro_MovieAndSeriesScript.md). I've re-used most of the script and adapted it to a different use case!
+These scripts and the inspiration for them are largely adapted from: [Christian's Movie Script](https://github.com/chhoumann/quickadd/blob/master/docs/Examples/Macro_MovieAndSeriesScript.md). I've re-used most of the script and adapted it to a different use case!
