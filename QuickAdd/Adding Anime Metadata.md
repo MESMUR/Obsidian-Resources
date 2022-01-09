@@ -73,7 +73,7 @@ banner: {{VALUE:image_big}}
 
 # <% tp.file.title %>
 
-#entertainment/manga
+#entertainment/comic
 
 [Link]({{VALUE:url}})
 Date:: [[<%tp.date.now("YYYY-MM-DD")%>]]
